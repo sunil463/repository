@@ -4,18 +4,15 @@ asd
 
 asd
 asd
-a
-a
-ad
-<<<<<<< HEAD
+ HEAD
 d
 456
 dsd
 d
-=======
+
 daxxxx
 
-ddffdsfddfdfddfddfdfffsd
-dqaaaaaaaa
->>>>>>> parent of 8fa2690... sxa
+dsd
+d
+ parent of 8fa2690... sxa
 d
